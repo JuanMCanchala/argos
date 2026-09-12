@@ -1,8 +1,13 @@
-# Sentinel
+# Argos
 
 Deteccion de incidentes en video en tiempo real, **zero-shot y multi-dominio**.
 Un mismo sistema cubre robo en tienda, agresiones, seguridad industrial y caidas
 sin entrenar un modelo por vertical: cambiar de dominio es cambiar un YAML.
+
+> El proyecto se presento en la hackaton como **Sentinel**. El repositorio se renombro a
+> **Argos** — por Argos Panoptes, el vigia de cien ojos — para no confundirlo con
+> [centinela](https://github.com/JuanMCanchala/centinela), que es otro proyecto.
+> Las variables de entorno conservan el prefijo `SENTINEL_`.
 
 ---
 
